@@ -1,0 +1,12 @@
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\config\CorsConfig.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\controller\StudyPlannerController.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\model\DayPlan.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\model\PlannerRequest.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\model\StudyPlan.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\model\StudyResponse.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\model\Subtopic.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\repository\StudyPlanRepository.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\repository\SubtopicRepository.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\service\OpenAIClient.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\service\StudyPlannerService.java
+C:\Users\chara\OneDrive\Documents\sp\study-planner\backend\src\main\java\com\example\studyplanner\StudyPlannerApplication.java
